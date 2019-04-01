@@ -1,0 +1,23 @@
+.select-field
+{
+	display: inline;
+	width: 100%;
+	height: 90px;	
+	border-radius: 10px;
+
+}
+.select-field > select
+{ 
+	
+	width: 200px;
+	height: 40px;
+	margin: 0px;
+	margin-left: 90px;
+	border-radius: 7px;
+	padding:0px 45px 0px 15px;
+	bottom: 0px;
+	background-color:#64B5F6;
+	font-family: 'osbold';
+	font-size: 20px;
+	color:#ffffff;
+}

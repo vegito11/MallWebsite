@@ -1,0 +1,46 @@
+body{
+	margin: 0 auto;
+	background-image: url("shop4.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 720px;
+	font-family: josefin slab,sans-serif;
+	color:red;
+}
+
+.loginbox1{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 	100;
+	height: 460px;
+	padding: 30px 60px;
+	box-sizing: border-box;
+	border:none;
+	background: rgba(0,0,0,0.5);
+
+}
+
+#haveacnt
+{
+margin-left:680px;
+	width: 500px;
+}
+#right{
+	margin-left: 830px;
+	width: 200px;
+	margin-top: 30px;
+}
+#log
+{
+	color: red;
+	margin-bottom: 20px;
+}
+#whitecol{
+	color: white;
+}
+#colas{
+	color:blue;
+}
+
+

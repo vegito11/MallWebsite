@@ -1,0 +1,16 @@
+body
+{
+	padding-top: 80px;
+	background-color: grey;	
+	background-image: url("back2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 720px;
+
+}
+#gik{
+	color: red;
+	background-color: grey;
+}
+.pallete{
+	background-color: #fbc12a
+}

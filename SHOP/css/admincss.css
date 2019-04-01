@@ -1,0 +1,94 @@
+body{
+	background-image:url(back1.jpg);
+	font-size: 10px;	
+	height: 100px;
+	background-size: 1600px 720px;
+	background-attachment: fixed;
+	background-repeat:no-repeat;
+	font-family:serif;
+
+}
+#lgout{
+	margin: 20px 0px 20px 20px;
+	
+}
+
+#nwusrbtn{
+	margin: 20px 0px 20px 1080px;
+}
+ul.nav{
+	list-style-type: none;
+	float: left;
+	/*position: fixed;*/
+	top: 5px;
+	width: 25%;
+	overflow: auto;
+	height: 800%;
+	margin: 10px;
+	padding: 0px;
+	background-color: #424242;
+}
+td{
+	text-align:center;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: comic sans ms;
+}
+.head{
+	font-weight: bolder;
+	font-size: 18px;
+	font-family: Helvetica;
+	color: white;
+	text-align: center;
+	background-color:#E53935;
+}
+ tr:nth-child(even)
+	{
+	  background: #E0E0E0;
+	}
+.nav li a{
+	display: block;
+	text-decoration: none;
+	text-align: center;
+	color: black;
+	padding: 5px;
+	font-size: 19px;
+	font-family: verdana;
+}
+.nav li a:hover:not(active){
+	background-color: #4CAF50;
+	color: black;
+}
+.sidebar{
+	margin-left: 25%;
+	padding: 20px;
+
+	height:800%;
+}
+.active {
+    background-color: green;
+    color: red;
+}
+.select-field
+{
+	display: inline;
+	width: 100%;
+	height: 90px;	
+	border-radius: 10px;
+
+}
+.select-field > select
+{ 
+	
+	width: 200px;
+	height: 40px;
+	margin: 0px;
+	margin-left: 90px;
+	border-radius: 7px;
+	padding:0px 45px 0px 15px;
+	bottom: 0px;
+	background-color:#64B5F6;
+	font-family: 'osbold';
+	font-size: 20px;
+	color:#ffffff;
+}
